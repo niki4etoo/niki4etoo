@@ -2,7 +2,7 @@
 
 🔭 I’m currently working on coffee-time-v2.0 Project
 
-🌱 I’m currently learning React and CSS Animations
+🌱 I’m currently learning React, react-router-dom and CSS Animations
 
 👯 I’m looking to collaborate on web app projects
 
