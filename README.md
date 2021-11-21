@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🔭 I’m currently working on coffee-time-v2.0 Project
+🔭 I’m currently working on coffee-shop Project
 
 🌱 I’m currently learning React, react-router-dom and CSS Animations
 
