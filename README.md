@@ -8,7 +8,7 @@
 
 🤔 I’m looking for help with game development.
 
-💬 Ask me about game development. I know very little and I would like to know a little bit more.
+💬 Ask me about game development. There are too many things to be learned in that field and I'll be glad to learn something new.
 
 📫 How to reach me: @niki4etooo, niki4etooo@gmail.com
 
