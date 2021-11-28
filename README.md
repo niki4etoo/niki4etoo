@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-🔭 I’m currently working on coffee-shop Project
+🔭 I’m currently working on FlipFlop Project
 
-🌱 I’m currently learning React, react-router-dom and CSS Animations
+🌱 I’m currently learning React, CSS tricks and Javascript
 
 👯 I’m looking to collaborate on web app projects
 
