@@ -2,7 +2,7 @@
 
 🔭 I’m currently working on CoffeeShop Project
 
-🌱 I’m currently learning mojs, nodejs and CSS tricks
+🌱 I’m currently learning GSAP, nodejs and CSS tricks
 
 👯 I’m looking to collaborate on web app projects
 
