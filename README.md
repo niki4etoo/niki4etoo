@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🔭 I’m currently working on CoffeeShop Project
+🔭 I’m currently working on CrazyRandomPiano Project
 
 🌱 I’m currently learning GSAP, nodejs and CSS tricks
 
