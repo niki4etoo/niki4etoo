@@ -2,7 +2,7 @@
 
 🔭 I’m currently working on Questionaire Project
 
-🌱 I’m currently learning GSAP, nodejs and CSS tricks
+🌱 I’m currently learning GSAP, nodejs and Jest framework
 
 👯 I’m looking to collaborate on web app projects
 
