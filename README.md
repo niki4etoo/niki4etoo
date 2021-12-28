@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🔭 I’m currently working on Questionaire Project
+🔭 I’m currently working on different fiverr projects
 
 🌱 I’m currently learning GSAP, nodejs and Jest framework
 
