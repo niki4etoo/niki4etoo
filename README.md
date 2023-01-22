@@ -4,7 +4,7 @@
 
 🌱 I’m currently learning game development.
 
-👯 I’m looking to collaborate on web app projects
+👯 I’m looking to collaborate on web/desktop/mobile app projects
 
 🤔 I’m looking for help with game development.
 
@@ -12,4 +12,4 @@
 
 😄 Pronouns: fika, niki, he/him, you
 
-⚡ Fun fact: Two ravens are flying, especially the left.
+⚡ Fun fact: Two ravens are flying, especially the left. Just turn around.
