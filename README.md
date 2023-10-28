@@ -6,7 +6,7 @@
 
 👯 I’m looking to collaborate on web app projects
 
-🤔 I’m looking for help with game development.
+🤔 I’m looking for help with game/web/animations development.
 
 📫 How to reach me: @niki4etooo, niki4etooo@gmail.com
 
