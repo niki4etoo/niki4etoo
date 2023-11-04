@@ -1,15 +1,15 @@
 ### Hi there 👋
 
-🔭 I’m currently working on myself.
+🔭 I’m currently working on myself ( as always ).
 
-🌱 I’m currently learning animations with GSAP, JS, React libs.
+🌱 I’m currently learning animations with GSAP, JS, React and other libraries.
 
 👯 I’m looking to collaborate on web app projects
 
 🤔 I’m looking for help with game/web/animations development.
 
-📫 How to reach me: @niki4etooo, niki4etooo@gmail.com
+📫 How to reach me: @niki4etooo, niki.nanev.94.work@gmail.com
 
 😄 Pronouns: fika, niki, he/him, you
 
-⚡ Fun fact: Two ravens are flying, especially the left. Just turn around.
+⚡ Fun fact: Two ravens are flying, especially the left. Just turn around. ( Very stupid joke, please do not laugh )
