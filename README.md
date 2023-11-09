@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🔭 I’m currently working on myself ( as always ).
+🔭 I’m currently working on myself ( as usual ).
 
 🌱 I’m currently learning animations with GSAP, JS, React and other libraries.
 
