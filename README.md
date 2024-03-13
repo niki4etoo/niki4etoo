@@ -13,3 +13,5 @@
 😄 Pronouns: fika, niki, he/him, you
 
 ⚡ Fun fact: Two ravens are flying, especially the left. Just turn around. ( Very stupid joke, please do not laugh )
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=niki4etoo)](https://github.com/anuraghazra/github-readme-stats)
