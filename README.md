@@ -8,7 +8,7 @@
 
 🤔 I’m looking for help with game/web/animations development.
 
-📫 How to reach me: @niki4etooo, niki.nanev.94.work@gmail.com
+📫 How to reach me: niki.nanev.94.work@gmail.com
 
 😄 Pronouns: fika, niki, he/him, you
 
