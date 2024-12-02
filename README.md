@@ -4,7 +4,7 @@
 
 🌱 I’m currently learning C/C++
 
-👯 I’m looking to collaborate on web app projects
+👯 I’m looking to collaborate on gamedev projects
 
 🤔 I’m looking for help with game/web/animations development.
 
